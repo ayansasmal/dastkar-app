@@ -1,0 +1,17 @@
+{
+  "name": "dastkar-app",
+  "description": "",
+  "scripts": {
+    "postdeploy": "npm start"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
